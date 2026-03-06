@@ -10,6 +10,7 @@ Building production AI systems for enterprises — from RAG to secure enclaves.
 
 - **100+ businesses** helped implement AI in their operations
 - **30-40% workforce optimization** achieved within 3 months
+- **100+ AI agents** orchestrated daily as my core team
 - **3 production SaaS products** with paying customers
 
 ### Expertise
@@ -34,12 +35,13 @@ Building production AI systems for enterprises — from RAG to secure enclaves.
 | [Viewbot.dev](https://viewbot.dev) | Omni-channel AI customer engagement |
 | [Agentim.ai](https://agentim.ai) | AI ticket classification for Zendesk |
 
-### Recent Work
+### Published Packages
 
-- Architected confidential AI system using secure enclaves for global enterprise
-- Built multi-agent workflow systems for enterprise automation
-- Designed RAG infrastructure handling millions of documents
-- Deployed AI stack integrations for Fortune 500 companies
+| Package | Downloads |
+|---------|-----------|
+| [@slack-ai/cli](https://www.npmjs.com/package/@slack-ai/cli) | AI summaries of Slack channels |
+| [clone-team](https://www.npmjs.com/package/clone-team) | Generate AI personas from conversations |
+| [@easyai/cli](https://www.npmjs.com/package/@easyai/cli) | AI development CLI & dashboard |
 
 ### Open Source Tools
 
