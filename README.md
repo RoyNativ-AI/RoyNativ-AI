@@ -6,19 +6,25 @@ I help privacy-first companies deploy AI without compromising security.
 
 ---
 
+### Impact
+
+- **100+ businesses** helped implement AI in their operations
+- **30-40% workforce optimization** achieved within 3 months
+- **3 production SaaS products** with paying customers
+
 ### Production SaaS Products
 
-| Product | Description | Status |
-|---------|-------------|--------|
-| [Officely.ai](https://officely.ai) | AI-powered team collaboration platform | Live with paying customers |
-| [Viewbot.dev](https://viewbot.dev) | Omni-channel AI customer engagement | Live with paying customers |
-| [Agentim.ai](https://agentim.ai) | AI ticket classification for Zendesk | Live with paying customers |
+| Product | Description |
+|---------|-------------|
+| [Officely.ai](https://officely.ai) | AI-powered team collaboration platform |
+| [Viewbot.dev](https://viewbot.dev) | Omni-channel AI customer engagement |
+| [Agentim.ai](https://agentim.ai) | AI ticket classification for Zendesk |
 
 ### What I Build
 
 - **Confidential Computing** — LLM deployments in TEE/Secure Enclaves
 - **Zero-Trust AI** — Data & prompts never leave the secure environment
-- **Production Scale** — Enterprise-grade, compliance-ready infrastructure
+- **Enterprise AI Infrastructure** — Production-grade, compliance-ready systems
 
 ### Recent Work
 
