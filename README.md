@@ -1,8 +1,8 @@
 # Roy Nativ
 
-**Secure AI Infrastructure Consultant**
+**AI Infrastructure Architect**
 
-I help privacy-first companies deploy AI without compromising security.
+Building production AI systems for enterprises — from RAG to secure enclaves.
 
 ---
 
@@ -12,6 +12,20 @@ I help privacy-first companies deploy AI without compromising security.
 - **30-40% workforce optimization** achieved within 3 months
 - **3 production SaaS products** with paying customers
 
+### Expertise
+
+**AI Architecture**
+- Multi-agent workflows & orchestration
+- RAG systems (retrieval, chunking, embeddings)
+- Pre-training & post-training pipelines
+- LLM fine-tuning & optimization
+
+**Enterprise Infrastructure**
+- Confidential Computing (TEE/Secure Enclaves)
+- Zero-trust AI — data never leaves secure environment
+- AI stack integration with existing workflows
+- Production-grade observability & cost optimization
+
 ### Production SaaS Products
 
 | Product | Description |
@@ -20,29 +34,24 @@ I help privacy-first companies deploy AI without compromising security.
 | [Viewbot.dev](https://viewbot.dev) | Omni-channel AI customer engagement |
 | [Agentim.ai](https://agentim.ai) | AI ticket classification for Zendesk |
 
-### What I Build
-
-- **Confidential Computing** — LLM deployments in TEE/Secure Enclaves
-- **Zero-Trust AI** — Data & prompts never leave the secure environment
-- **Enterprise AI Infrastructure** — Production-grade, compliance-ready systems
-
 ### Recent Work
 
 - Architected confidential AI system using secure enclaves for global enterprise
-- Built privacy-preserving LLM infrastructure (data never leaves client environment)
-- Designed zero-trust AI architecture for regulated industries
+- Built multi-agent workflow systems for enterprise automation
+- Designed RAG infrastructure handling millions of documents
+- Deployed AI stack integrations for Fortune 500 companies
 
 ### Open Source Tools
 
 | Project | Description |
 |---------|-------------|
-| [vllm-tracker](https://github.com/RoyNativ-AI/vllm-tracker) | Privacy-first LLM observability — tracks costs without storing prompts |
-| [video-ai](https://github.com/RoyNativ-AI/video-ai) | AI video generation using Remotion, Claude & Fal.ai |
+| [vllm-tracker](https://github.com/RoyNativ-AI/vllm-tracker) | Privacy-first LLM observability |
+| [video-ai](https://github.com/RoyNativ-AI/video-ai) | AI video generation with Remotion & Claude |
 | [pii-guard](https://github.com/RoyNativ-AI/pii-guard) | PII detection and anonymization |
-| [hide-my-email](https://github.com/RoyNativ-AI/hide-my-email) | Apple-style email aliases for Gmail |
+| [slack-ai](https://github.com/RoyNativ-AI/slack-ai) | AI summaries of Slack channels |
 
 ### Let's Talk
 
-Building AI but concerned about security & privacy?
+Need help building AI infrastructure for your organization?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/roynativ)
