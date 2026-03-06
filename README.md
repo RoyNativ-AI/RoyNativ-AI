@@ -34,6 +34,7 @@ Building production AI systems for enterprises — from RAG to secure enclaves.
 | [Officely.ai](https://officely.ai) | AI-powered team collaboration platform |
 | [Viewbot.dev](https://viewbot.dev) | Omni-channel AI customer engagement |
 | [Agentim.ai](https://agentim.ai) | AI ticket classification for Zendesk |
+| [Maili2u.com](https://app.maili2u.com) | Hide My Email — disposable email aliases |
 
 ### Published Packages
 
@@ -50,7 +51,7 @@ Building production AI systems for enterprises — from RAG to secure enclaves.
 | [vllm-tracker](https://github.com/RoyNativ-AI/vllm-tracker) | Privacy-first LLM observability |
 | [video-ai](https://github.com/RoyNativ-AI/video-ai) | AI video generation with Remotion & Claude |
 | [pii-guard](https://github.com/RoyNativ-AI/pii-guard) | PII detection and anonymization |
-| [slack-ai](https://github.com/RoyNativ-AI/slack-ai) | AI summaries of Slack channels |
+| [hide-my-email](https://github.com/RoyNativ-AI/hide-my-email) | Apple-style email aliases for Gmail |
 
 ### Let's Talk
 
