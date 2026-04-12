@@ -48,6 +48,7 @@ Building production AI systems for enterprises — from RAG to secure enclaves.
 
 | Project | Description |
 |---------|-------------|
+| [KeyWatch](https://roynativ-ai.github.io/keywatch/) | Live tracker of exposed API keys — 39K+ findings, $5.7K in vulnerable accounts |
 | [vllm-tracker](https://github.com/RoyNativ-AI/vllm-tracker) | Privacy-first LLM observability |
 | [video-ai](https://github.com/RoyNativ-AI/video-ai) | AI video generation with Remotion & Claude |
 | [pii-guard](https://github.com/RoyNativ-AI/pii-guard) | PII detection and anonymization |
